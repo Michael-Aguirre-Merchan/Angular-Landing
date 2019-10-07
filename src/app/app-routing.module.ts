@@ -6,7 +6,7 @@ import { PageNotFoundComponent } from './page-not-found/page-not-found.component
 const routes: Routes = [
   {
     path: 'landing',
-    loadChildren: './landing/landing.module#LandingModule'},
+    loadChildren: () => import('./landing/landing.module').then(m => m.LandingModule)},
   { path: 'privacy', component: PrivacyComponent},
   { path: '', redirectTo: '/landing', pathMatch: 'full'  },
   { path: '**', component: PageNotFoundComponent }
