@@ -1,27 +1,37 @@
-# WebContainer
+<h1>My CV</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4.
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Michael,
 
-## Development server
+- I'm a motivated university student with excellent GPA and an aspiration to advance in the software industry. 👨🏻‍🎓
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- I’m currently learning angular. 👨🏻‍💻
 
-## Code scaffolding
+- I have an innate capacity for leadership and strategic thinking. 💁‍♂️
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+This project was to test some new technologies to create some more stylish login and registration forms.
 
-## Build
+This project was made with angular using Html, SCSS and TypeScript. I used bootstrap to wrap it all.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+You can check it out <a href="https://michaelmerchan.com">here</a>.
 
-## Running unit tests
+I hope you like it.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+-----------------------------------------------------------------------------------------------------------------------------
 
-## Running end-to-end tests
+<h1>Mi HV</h1>
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hola, soy Michael,
 
-## Further help
+- Soy un estudiante universitario motivado con un expediente académico ejemplar y una aspiración de avanzar en la industria del software. 👨🏻‍🎓
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+- Actualmente estoy aprendiendo Angular. 👨🏻‍💻
+
+- Tengo una capacidad innata de liderazgo y pensamiento estratégico. 💁‍♂️
+
+Este fue un proyecto para testear nuevas tecnologias que adaptamos para crear paginas de resgitro y login con mucho mas estulo.
+
+Este proyecto se realizó con angular usando Html, SCSS y TypeScript. Usé bootstrap para organizarlo todo.
+
+Puedes ver mi sitio <a href="https://michaelmerchan.com">aquí</a>.
+
+Espero que te guste.
