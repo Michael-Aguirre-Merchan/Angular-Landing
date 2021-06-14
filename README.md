@@ -1,4 +1,4 @@
-<h1>My CV</h1>
+<h1>Angular Landing/h1>
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Michael,
 
@@ -18,7 +18,7 @@ I hope you like it.
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-<h1>Mi HV</h1>
+<h1>Angular Landing</h1>
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hola, soy Michael,
 
